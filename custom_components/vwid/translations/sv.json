@@ -1,0 +1,16 @@
+{
+  "title": "Volkswagen ID",
+  "config": {
+    "step": {
+      "user": {
+        "data": {
+          "name": "Användarnamn",
+          "password": "Lösenord",
+          "vin": "Fordonets VIN-nummer"
+        },
+        "description": "Ange användaruppifter och VIN-nummer",
+        "title": "Konfiguration"
+      }
+    }
+  }
+}
